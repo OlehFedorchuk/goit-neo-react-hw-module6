@@ -1,0 +1,27 @@
+.item {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.item button {
+    margin-left: auto;
+    height: 30px;
+    width: 60px;
+}
+
+p {
+    margin: 0;
+}
